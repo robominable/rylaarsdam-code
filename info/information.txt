@@ -1,0 +1,4 @@
+This repos will be purely used for my personal organization, but is free for anyone to use *with attribution*.
+If you are testing this code for your own use and find a bug, be a nice person and create an issue.
+If you make an adaptation of my code, feel free to create a pull request where I could implement your changes.
+      *note: your code will then be licenced under MIT, and will be free for myself and everyone else to use.
