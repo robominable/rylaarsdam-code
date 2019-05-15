@@ -2,3 +2,6 @@ This repos will be purely used for my personal organization, but is free for any
 If you are testing this code for your own use and find a bug, be a nice person and create an issue.
 If you make an adaptation of my code, feel free to create a pull request where I could implement your changes.
       *note: your code will then be licenced under MIT, and will be free for myself and everyone else to use.
+
+merge requests will always get a responce unless they are at or under 5 lines changed and not attached to an issue.
+fake/spam issues/merge requests will get locked, and the user suspended
